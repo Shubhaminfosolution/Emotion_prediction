@@ -27,7 +27,7 @@ Emotion recognition from images is a crucial aspect of human-computer interactio
 
 The project uses a well-curated dataset consisting of labeled facial images representing different emotions. The images are pre-processed and augmented to improve model performance.
 
-- **Dataset Source**: [Link to Dataset] (if applicable)
+- **Dataset Source**: It is provided in the repository.
 - **Data Fields**:
   - Image ID
   - Emotion Label (Happy, Sad, Angry, Surprised, etc.)
